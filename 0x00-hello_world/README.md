@@ -5,6 +5,8 @@
 * gcc -E $CFILE -o c  
   
 **2. 1-compiler**  
+* Script compiles a C file *$Cfile* but does not link. The output file is the same as the C file but with the extension *.o* as oppossed to *.c*  
+* gcc -c $CFILE
   
 **3. 2-assembler**  
   
