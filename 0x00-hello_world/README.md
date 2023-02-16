@@ -23,5 +23,6 @@
   
 ### Additionally, the following scripts are included as solutions to the optional tasks:  
 **1. 100-intel**  
+* Script generates the assembly code (in intel syntax) of a C file '*$CFile* and saves it to an output file with the same name, but extension *.s* as oppossed to *.c*  
   
 **2. 101-quote.c**
