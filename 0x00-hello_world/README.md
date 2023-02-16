@@ -25,4 +25,5 @@
 **1. 100-intel**  
 * Script generates the assembly code (in intel syntax) of a C file '*$CFile* and saves it to an output file with the same name, but extension *.s* as oppossed to *.c*  
   
-**2. 101-quote.c**
+**2. 101-quote.c**  
+* C Program prints the text *and that piece of art is useful" - Dora Korpar, 2015-10-19* to the standard error, using the *write()* function
