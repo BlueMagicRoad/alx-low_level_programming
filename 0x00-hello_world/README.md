@@ -13,6 +13,8 @@
 * gcc -S $CFILE  
   
 **4. 3-name**  
+* Script compiles a C file *$Cfile* and creates an exectubale called *cisfun*    
+* gcc $CFILE -o cisfun
   
 **5. 4-puts.c**  
   
