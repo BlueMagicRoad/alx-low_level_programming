@@ -16,6 +16,7 @@
 * C program that prints *"Programming is like building a multilingual puzzle* using the *puts()* function 
   
 **6. 5-printf.c** 
+* C program that prints *with proper grammar, but the outcome is a piece of art,* using the *printf()* function  
   
 **7. 6-size.c**  
   
