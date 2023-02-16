@@ -1,22 +1,19 @@
 # Hello-World Project  
 ### This project contains the following scripts:    
 **1. 0-preprocessor**  
-* Script runs a C file *$CFile* through the preprocessor and saves the result to a file *c*  
-* gcc -E $CFILE -o c  
+* Script runs a C file *$CFile* through the preprocessor and saves the result to a file *c*   
   
 **2. 1-compiler**  
 * Script compiles a C file *$CFile* but does not link. The output file is the same as the C file but with the extension *.o* as oppossed to *.c*  
-* gcc -c $CFILE
   
 **3. 2-assembler**  
-* Script generates the assembly code of a C file '*$CFile* and saves it to an output file with the same name, but extension *.s* as oppossed to *.c*  
-* gcc -S $CFILE  
+* Script generates the assembly code of a C file '*$CFile* and saves it to an output file with the same name, but extension *.s* as oppossed to *.c*    
   
 **4. 3-name**  
 * Script compiles a C file *$Cfile* and creates an exectubale called *cisfun*    
-* gcc $CFILE -o cisfun
   
 **5. 4-puts.c**  
+* C program that prints *"Programming is like building a multilingual puzzle* using the *puts()* function 
   
 **6. 5-printf.c** 
   
