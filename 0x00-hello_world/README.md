@@ -5,10 +5,12 @@
 * gcc -E $CFILE -o c  
   
 **2. 1-compiler**  
-* Script compiles a C file *$Cfile* but does not link. The output file is the same as the C file but with the extension *.o* as oppossed to *.c*  
+* Script compiles a C file *$CFile* but does not link. The output file is the same as the C file but with the extension *.o* as oppossed to *.c*  
 * gcc -c $CFILE
   
 **3. 2-assembler**  
+* Script generates the assembly code of a C file '*$CFile* and saves it to an output file with the same name, but extension *.s* as oppossed to *.c*  
+* gcc -S $CFILE  
   
 **4. 3-name**  
   
