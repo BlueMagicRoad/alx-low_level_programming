@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- * The starting point of the program is main
+ * main - Starting point of the program, prints the text held in task1
  *
- * It will return 0 if run successfully , and a non-zero value if not
+ * Return: 0 if successful, non-zero if error(s)
  */
 int main(void)
 {
