@@ -1,6 +1,6 @@
 # Hello-World Project  
 ### This project contains the following scripts:    
-**1. 0-preprocessor**  
+**1. 0-preprocessor**
 * Script runs a C file *$CFile* through the preprocessor and saves the result to a file *c*   
   
 **2. 1-compiler**  
