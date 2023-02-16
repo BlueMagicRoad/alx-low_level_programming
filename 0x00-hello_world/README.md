@@ -19,6 +19,7 @@
 * C program that prints *with proper grammar, but the outcome is a piece of art,* using the *printf()* function  
   
 **7. 6-size.c**  
+* C Program prints the sizes of the *types* in bytes
   
 ### Additionally, the following scripts are included as solutions to the optional tasks:  
 **1. 100-intel**  
