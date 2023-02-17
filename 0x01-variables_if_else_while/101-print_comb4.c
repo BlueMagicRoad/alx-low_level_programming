@@ -10,24 +10,24 @@ int main(void)
 	int a;
 	int b;
 	int c;
+	int d;
 
-	a = 0;
-
-	while (a < 100)
+	for (a = 0; a < 1000; a++)
 	{
-		b = a % 10;
-		c = a / 10;
-		if (c < b)
+		b = a / 100;
+		c = (a / 10) % 10;
+		d = a % 10;
+		if (b < c && c < d)
 		{
-			putchar(c + '0');
 			putchar(b + '0');
-			if (a < 89)
+			putchar(c + '0');
+			putchar(d + '0');
+			if (a < 700)
 			{
 				putchar(44);
 				putchar(32);
 			}
 		}
-		a++;
 	}
 	putchar('\n');
 
