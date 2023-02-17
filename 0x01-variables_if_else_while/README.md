@@ -21,7 +21,7 @@
 **7. 6-print_numberz.c**  
 * C Program  
   
-**8. 7-print_tebahpla.c*  
+**8. 7-print_tebahpla.c**  
 * C Program  
   
 **9. 8-print_base16.c**  
