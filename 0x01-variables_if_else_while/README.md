@@ -10,7 +10,7 @@
 * C Program prints the alphabet in lowercase using the *putchar* function  
   
 **4. 3-print_alphabets.c**  
-* C Program  
+* C Program prints the alphabet in lowercase and then in uppercase using the *putchar* function  
   
 **5. 4-print_alphabt.c**  
 * C Program  
