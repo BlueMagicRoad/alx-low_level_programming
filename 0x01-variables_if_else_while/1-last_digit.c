@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Starting point of the program
- * Description: Give info about a randomly
- * generated number's last digit
- * Return: 0
- */
+* main - Starting point of the program
+* Description: Give info about a randomly
+* generated number's last digit
+* Return: 0
+*/
 int main(void)
 {
 	int n;
