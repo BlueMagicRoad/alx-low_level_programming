@@ -4,10 +4,10 @@
 * C Program determines whether some randomly generated number *n* is *negative*, *positive* or *zero*  
   
 **2. 1-last_digit.c**  
-* C Program  
+* C Program determines whether the last digit of some randomly generated number *n* is *zero*, *less than six* or *greater than five*  
   
 **3. 2-print_alphabet.c**  
-* C Program  
+* C Program prints the alphabet in lowercase using the *putchar* function  
   
 **4. 3-print_alphabets.c**  
 * C Program  
