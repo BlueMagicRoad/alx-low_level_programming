@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Start of program
- * Description: Provide info about the last digit of a 
+ * Description: Provide info about the last digit of a
  * randomly generated number
  * Return: 0
  */
@@ -29,5 +29,5 @@ int main(void)
 		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, last);
 	}
 
-	return(0);
+	return (0);
 }
