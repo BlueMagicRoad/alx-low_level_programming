@@ -1,7 +1,7 @@
 # Variables, If, Else, While Project  
 ### This project contains the following scripts:    
 **1. 0-positive_or_negative.c**
-* C Program  
+* C Program determines whether some randomly generated number *n* is *negative*, *positive* or *zero*  
   
 **2. 1-last_digit.c**  
 * C Program  
