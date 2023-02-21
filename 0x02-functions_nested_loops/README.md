@@ -34,15 +34,4 @@
 * C function adds two integers and returns the result: *int add(int, int);*  
   
 **12. 11-print_to_98.c**  
-* C function prints all integers from *n* to *98*, starting with *n*: *void print_to_98(int n);*  
-  
-### Additionally, the following scripts are included as solutions to the optional tasks:  
-**1. 100-times_table.c**   
-  
-**2. 101-natural.c**   
-  
-**3. 102-fibonacci.c**  
-  
-**1. 103-fibonacci.c**   
-  
-**2. 104-fibonacci.c**   
+* C function prints all integers from *n* to *98*, starting with *n*: *void print_to_98(int n);*
