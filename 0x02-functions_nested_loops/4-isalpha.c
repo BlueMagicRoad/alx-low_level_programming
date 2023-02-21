@@ -4,7 +4,7 @@
  * @c: char type
  *
  * Return: 1 if letter, 0 otherwise
- * */
+ */
 int _isalpha(int c)
 {
 	if (c >= 97 && c <= 122)
