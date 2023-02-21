@@ -23,7 +23,7 @@ void jack_bauer(void)
 
 		m2++;
 
-		if (m2 > 0)
+		if (m2 > 9)
 		{
 			m2 = 0;
 			m1++;
