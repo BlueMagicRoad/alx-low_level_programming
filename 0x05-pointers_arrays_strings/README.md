@@ -5,7 +5,7 @@
 **3. 2-strlen.c**  
 **4. 3-puts.c**  
 **5. 4-print_rev.c**  
-**6. 5-rev_string.c** 
+**6. 5-rev_string.c**  
 **7. 6-puts2.c**  
 **8. 7-puts_half.c**  
 **9. 8-print_array.c**  
