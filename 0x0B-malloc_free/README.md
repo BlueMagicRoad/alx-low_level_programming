@@ -3,7 +3,7 @@
 **1. 0-create_array.c**
 * C program that creates an array of chars, and initializes it with a specific char  
   
-**1-strdup.c**  
+**2. 1-strdup.c**  
 * C program that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter  
   
 **3. 2-str_concat.c**  
