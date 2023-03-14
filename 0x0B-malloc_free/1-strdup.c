@@ -9,7 +9,7 @@
  * Return: Pointer to copied string
  */
 
-char *_strdup(char * str)
+char *_strdup(char *str)
 {
 	int n, m;
 	char *a;
